@@ -14,4 +14,8 @@ The best app for managing all the series you watch. Basically this app tracks an
 
 [GitHub - Sonarr/Sonarr: Smart PVR for newsgroup and bittorrent users.](https://github.com/Sonarr/Sonarr)
 
+**- Bazarr**
 
+Connect this app to Sonarr and you get subtitles for all the episodes you downloaded 
+
+https://github.com/morpheus65535/bazarr
